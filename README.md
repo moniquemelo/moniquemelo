@@ -5,7 +5,7 @@ I'm currently studying the Python language and starting to study HTML, CSS and J
 
 I'm at the beginning of a long journey, but extremely happy and excited to do it. 😍
 
-####Learning journey:
+#### Learning journey:
 - Python 
 - SQLite (DB Browser / SQL Server)
 - HTML, CSS and Javascript
