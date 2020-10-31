@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**moniquemelo/moniquemelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Monique Melo, I live in São Paulo, Brazil and I'm a student of Computer Engineering. 
+I'm currently studying the Python language and starting to study HTML, CSS and Javascript. I'm starting to develop small Python applications in order to create a flow with SQLite. Soon, I intend to develop new applications using HTML, CSS and Javascript and to go deeper and deeper into the incredible universe of programming.
 
-Here are some ideas to get you started:
+I'm at the beginning of a long journey, but extremely happy and excited to do it. 😍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####Learning journey:
+- Python 
+- SQLite (DB Browser / SQL Server)
+- HTML, CSS and Javascript
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monique-melo-72a51a182/)](https://www.linkedin.com/in/monique-melo-72a51a182/) 
+[![Gmail Badge](https://img.shields.io/badge/-jmoniquemelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmoniquemelo@gmail.com)](mailto:jmoniquemelo@gmail.com)
+
+
