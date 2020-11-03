@@ -11,6 +11,6 @@ I'm at the beginning of a long journey, but extremely happy and excited to do it
 - HTML, CSS and Javascript
 
 [![Linkedin Badge](https://img.shields.io/badge/-Monique%20Melo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monique-melo-72a51a182/)](https://www.linkedin.com/in/monique-melo-72a51a182/) 
-[![Gmail Badge](https://img.shields.io/badge/-jmoniquemelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmoniquemelo@gmail.com)](mailto:jmoniquemelo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jmoniquemelo-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmoniquemelo@gmail.com)](mailto:jmoniquemelo@gmail.com)
 
 
