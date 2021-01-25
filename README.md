@@ -1,14 +1,14 @@
 # Olá! 👋
 
 Meu nome é Monique Melo, moro em São Paulo, Brasil e sou estudante de Engenharia da Computação.
-Atualmente estou estudando a linguagem Python e começando a estudar HTML, CSS e Javascript. Estou começando a desenvolver pequenos aplicativos Python para criar um fluxo com MySQL. Em breve, pretendo desenvolver novas aplicações utilizando HTML, CSS e Javascript e me aprofundar cada vez mais no incrível universo da programação.
+Atualmente estou estudando a linguagem Python e C#, bem como as tecnologias HTML e CSS. Estou começando a desenvolver pequenos aplicativos Python para criar um fluxo com MySQL. Em breve, pretendo desenvolver novas aplicações utilizando HTML, CSS e Javascript e me aprofundar cada vez mais no incrível universo da programação.
 
 Praticando linguagens de programação através da plataforma URI, com mais de 180 desafios resolvidos. Visite meu perfil: [URI](https://www.urionlinejudge.com.br/judge/pt/users/statistics/503886)
 
 Estou no início de uma longa jornada, mas extremamente feliz e animado para fazê-lo. 😍
 
 #### Learning journey:
-- Python 
+- Python, C# 
 - SQLite, MySQL
 - HTML, CSS and Javascript
 
