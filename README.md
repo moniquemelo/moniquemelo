@@ -1,7 +1,7 @@
 # Olá! 👋
 
 Meu nome é Monique Melo, moro em São Paulo e sou estudante de Engenharia da Computação.
-Atualmente faço estágio emm Ciência de Dados em uma Fintech de São Paulo, utilizando Python, SQL e Power BI. Também já trabalhei com Webcrawler na linguagem C#.
+Atualmente faço estágio em Ciência de Dados e Análise de Dados em uma Fintech de São Paulo, utilizando Python, SQL e Power BI. Também já trabalhei com Webcrawler na linguagem C#.
 
 Praticando Linguagens de Programação através da plataforma URI, com mais de 180 desafios resolvidos. Visite meu perfil: [URI](https://www.urionlinejudge.com.br/judge/pt/users/statistics/503886)
 
