@@ -7,7 +7,7 @@ Praticando Linguagens de Programação através da plataforma Beecrowd, com mais
 
 [![Linkedin Badge](https://img.shields.io/badge/jmoniquemelo?style=for-the-badge&logo=linkedin&logoColor=white)
 
-https://img.shields.io/badge/-Monique%20Melo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmoniquemelo/)](https://www.linkedin.com/in/jmoniquemelo/)
+https://img.shields.io/badge/-Monique%20Melo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmoniquemelo/)](https://www.linkedin.com/in/jmoniquemelo/
 [![Gmail Badge](https://img.shields.io/badge/-jmoniquemelo-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmoniquemelo@gmail.com)](mailto:jmoniquemelo@gmail.com)
 
 
